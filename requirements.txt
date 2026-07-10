@@ -1,6 +1,4 @@
 # requirements.txt
-#snowflake-snowpark-python
-#streamlit
-#requests
-streamlit[snowflake]
+snowflake-snowpark-python
+streamlit
 requests
